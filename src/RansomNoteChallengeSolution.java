@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Solution {
     private Map<String, Integer> magazineMap = new HashMap<>();
     // private Map<String, Integer> noteMap = new HashMap<>();
